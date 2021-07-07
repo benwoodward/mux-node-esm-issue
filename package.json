@@ -7,7 +7,9 @@
     "preview": "svelte-kit preview"
   },
   "devDependencies": {
-    "@sveltejs/kit": "next",
+    "@mux/mux-node": "^3.2.3",
+    "@sveltejs/adapter-netlify": "^1.0.0-next.18",
+    "@sveltejs/kit": "^1.0.0-next.120",
     "svelte": "^3.34.0"
   },
   "type": "module"
